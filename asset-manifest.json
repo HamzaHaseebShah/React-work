@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-work/static/css/main.ececb02c.chunk.css",
+    "main.js": "/React-work/static/js/main.cb094ad8.chunk.js",
+    "main.js.map": "/React-work/static/js/main.cb094ad8.chunk.js.map",
+    "runtime~main.js": "/React-work/static/js/runtime~main.53eb3c2a.js",
+    "runtime~main.js.map": "/React-work/static/js/runtime~main.53eb3c2a.js.map",
+    "static/css/2.ac0cf94b.chunk.css": "/React-work/static/css/2.ac0cf94b.chunk.css",
+    "static/js/2.b2ecfea6.chunk.js": "/React-work/static/js/2.b2ecfea6.chunk.js",
+    "static/js/2.b2ecfea6.chunk.js.map": "/React-work/static/js/2.b2ecfea6.chunk.js.map",
+    "static/js/3.0d00e878.chunk.js": "/React-work/static/js/3.0d00e878.chunk.js",
+    "static/js/3.0d00e878.chunk.js.map": "/React-work/static/js/3.0d00e878.chunk.js.map",
+    "index.html": "/React-work/index.html",
+    "precache-manifest.ed1aee3c0b193a029e4508e29f13cb39.js": "/React-work/precache-manifest.ed1aee3c0b193a029e4508e29f13cb39.js",
+    "service-worker.js": "/React-work/service-worker.js",
+    "static/css/2.ac0cf94b.chunk.css.map": "/React-work/static/css/2.ac0cf94b.chunk.css.map",
+    "static/css/main.ececb02c.chunk.css.map": "/React-work/static/css/main.ececb02c.chunk.css.map",
+    "static/media/DocotrLogin": "/React-work/static/media/DocotrLogin.6a9c39fd.bin",
+    "static/media/Patient-Login.png": "/React-work/static/media/Patient-Login.58065a83.png",
+    "static/media/backgroundimage.png": "/React-work/static/media/backgroundimage.81ef7ab8.png"
+  }
+}
